@@ -1,0 +1,8 @@
+.tailwindMeManque{
+
+    background: rgb(2,0,36);
+    background: linear-gradient(128deg, rgb(242, 241, 255) 0%, rgb(230, 34, 34) 35%, rgb(126, 5, 182) 100%); 
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

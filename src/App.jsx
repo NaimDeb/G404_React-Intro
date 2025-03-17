@@ -1,11 +1,8 @@
-import './App.css'
+import "./App.css";
+import Welcome from "./components/Welcome/Welcome";
 
 function App() {
-
-
-  return (
-    <h1>Welcome</h1>
-  )
+  return <Welcome firstName="Ahmed" lastName="le bandit" />;
 }
 
-export default App
+export default App;
